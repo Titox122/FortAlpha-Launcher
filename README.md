@@ -1,4 +1,4 @@
-![Logo](https://static.wikia.nocookie.net/logopedia/images/2/20/Fortnite_Chapter_1_Season_1_V2.jpg)
+![](https://static.wikia.nocookie.net/logopedia/images/2/20/Fortnite_Chapter_1_Season_1_V2.jpg)
 
 ### How To Install 
 install the python script
