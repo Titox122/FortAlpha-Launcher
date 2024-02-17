@@ -7,7 +7,7 @@ open the script and select your .ini file, the content folder and the shipping.e
 select your level and press apply changes
 play
 
-# ¿What The Hell is This?
+# What The Hell is This
 its a unofficial Fortnite Alpha Launcher. the script detects every .umap and show it in a list
 
 ### Credits
